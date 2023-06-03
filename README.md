@@ -1,1 +1,5 @@
 # k-means-clustering-analysis
+
+Considered a set of observations on a number of silhouettes related to different type of vehicles, using a set of features extracted from the silhouette. Each vehicle may be viewed from one of many different angles. Four model vehicles were used for the experiment: a double decker bus, Chevrolet van, Saab and an Opel Manta. This particular combination of vehicles was chosen with the expectation that the bus, van and either one of the cars would be readily distinguishable, but it would be more difficult to distinguish between the cars.
+
+Conducted a k-means clustering analysis for this scenario. The objective of applying k-means clustering to the vehicle data might have been to uncover any natural groupings or similarities among the vehicles, particularly in terms of their visual characteristics. This analysis could provide insights into whether the chosen vehicles indeed exhibited distinct clusters or if there was some overlap between the cars, as anticipated.
